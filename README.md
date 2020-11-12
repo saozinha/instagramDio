@@ -5,4 +5,4 @@
 - remember css flex box and media queries
  
  - print the page 
-![print screeen](https://github.com/[saozinha]/[instagramDio]/blob/[main]/printscreen.png?raw=true)
+![print screeen](https://github.com/saozinha/instagramDio/blob/master/img/printscreen.png?raw=true) 
